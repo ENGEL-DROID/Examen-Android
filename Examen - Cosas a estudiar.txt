@@ -1,0 +1,8 @@
+Examen de Android:
+
+- Importar en MySql la BBDD que va a dar Txema
+- Realizar la conexión a BBDD
+- Realizar consultas a esa BBDD
+- Crear una BBDD en SqLite y hacer peticiones
+- Utilizar Geolocalización
+- Utilizar creación de fotos y guardado
